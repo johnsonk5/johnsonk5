@@ -25,6 +25,7 @@ I'd be happy to work on anything in those areas or anything else!
 **Get in touch with me!**
 
 *Email:* johnsonk51502@gmail.com
+
 *LinkedIn:* [Kevin Johnson](https://www.linkedin.com/in/kevin-johnson-56373820a/)
 
 <!---
