@@ -12,12 +12,24 @@ My name is Kevin, I'm a teacher who is aspiring to become a data scientist.
 
 Python | SQL | Data Visualization | Machine Learning
 
+**My Projects**
+Here are some of the projects I've worked on:
+
+*[Predicting Yelp Ratings For Restaurants](https://github.com/johnsonk5/yelp_project/blob/main/Predicting%20Yelp%20Ratings%20for%20Restaurants.ipynb)*
+
+I created a function to retrieve data from the Yelp API and used it to retrieve data about restaurants for several cities in the US. 
+I then cleaned this data and prepared it for use in a Linear Regression model. My model was able to predict Yelp ratings with an average error of about 1/2 stars.
+
+*[Pitchfork Over the Years](https://github.com/johnsonk5/pitchfork/blob/main/Pitchfork%20Over%20the%20Years.ipynb)*
+
+I used Matplotlib to produce several visualizations of long term trends for the ratings on the online music magazine Pitchfork. 
+I also used SQL to produce summary statistics about the data. In this project, I found that Pitchfork's scores have been rising since 2009 as a result of a decline in the number of low scoring reviews.
 
 
 **What I'm interested in working on?**
 
 I'm looking to build my skills so I'd be happy to collaborate on anything! 
-In particular, I'm interested in politics and social sciences. I also love food and music.
+In particular, I'm interested in economics and social sciences. I also love food and music.
 I'd be happy to work on anything in those areas or anything else!
 
 
