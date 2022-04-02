@@ -13,6 +13,7 @@ My name is Kevin, I'm a teacher who is aspiring to become a data scientist.
 Python | SQL | Data Visualization | Machine Learning
 
 **My Projects**
+
 Here are some of the projects I've worked on:
 
 *[Predicting Yelp Ratings For Restaurants](https://github.com/johnsonk5/yelp_project/blob/main/Predicting%20Yelp%20Ratings%20for%20Restaurants.ipynb)*
