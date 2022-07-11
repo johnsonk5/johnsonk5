@@ -26,10 +26,6 @@ Here are some of the projects I've worked on:
 - Used Matplotlib to produce several visualizations of long term trends for the ratings on the online music magazine Pitchfork. 
 - Used SQL to produce summary statistics about the data. In this project, I found that Pitchfork's scores have been rising since 2009 as a result of a decline in the number of low scoring reviews.
 
-*[New York Schools Dashboard](https://app.powerbi.com/groups/95b0db27-9a04-4b89-b3e8-9cfb225d46be/dashboards/3d609ae4-397b-4f5f-a3ac-7f47c12d1d18)*
-- Created a Power BI dashboard to assess trends in New York State public, private and charter schools
-- Assessed several essential student success KPIs and looked at how these KPIs varied by grade level, ethnicity, gender and economic status.
-
 
 **What I'm interested in working on?**
 
